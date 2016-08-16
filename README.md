@@ -43,9 +43,15 @@ The easiest way to upload a new tex file is to upload it from your local compute
 
 ![](replace_tex.png)
 
-You can either drag your file to the uploading window opening or choose a file via the CHOOSE FILES button.
+You can either drag your file (which you probably called publication.tex) to the uploading window opening or choose a file via the CHOOSE FILES button.
 
 ![](drag_file.PNG)
+
+To make it your main tex file, you need to delete the existing file main.tex. This will make your publication.tex file the new main tex file. Overleaf will now try to compile your document. This will produce an error as indicated by the red square in the upper right corner.
+
+![](compilation_error.PNG)
+
+
 
 
 
