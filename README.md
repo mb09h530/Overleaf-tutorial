@@ -39,8 +39,13 @@ The working surface is composed of three areas:
 * and the part to the right where your document is displayed as a pdf after compilation (which is done automatically).
 
 **2. Upload your own tex-file:** Currently, your document just consists of a blank file. However, we would like to continue working on the document you created in Tutorial 2: Writing publications with R. 
-The easiest way to upload a new tex file is to upload it from your local computer. To do so, click on the add files button in the upper left corner. 
+The easiest way to upload a new tex file is to upload it from your local computer. To do so, click on the add files button in the upper left corner and choose upload from computer.
 
 ![](replace_tex.png)
+
+You can either drag your file to the uploading window opening or choose a file via the CHOOSE FILES button.
+
+![](drag_file.PNG)
+
 
 
