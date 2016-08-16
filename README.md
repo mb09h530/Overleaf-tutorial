@@ -32,5 +32,10 @@ A new window opens containing your new project.
 
 ![](elements.PNG)
 
+The working surface is composed of three areas: 
+* The area to the left where you manage the files being part of your document (tex file, bibliography, figures,...) and where you can download your project as a zip-file;
+* The part in the middle showing the tex file containing your LaTeX code;
+* and the part to the right where your document is displayed as a pdf after compilation (which is done automatically).
+
 
 
