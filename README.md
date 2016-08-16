@@ -19,4 +19,10 @@ It offers a rich text mode for those who do not like to work directly in the LaT
 ## Part 1: Subscription
 
 **1. Sign up:** To get started you need to sign up for Overleaf on the **[Overleaf webpage](https://www.overleaf.com/)**.
+
 ![](sign_up.PNG)
+
+**2. Sign in:** Once you have signed up, you can log into your account. The first time you sign in, you need to verify your e-mail address.
+**3. Create a new project:** You can now create your first project by pressing on the "create a new project" button.
+
+![](create_project.PNG)
