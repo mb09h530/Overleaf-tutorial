@@ -23,6 +23,8 @@ It offers a rich text mode for those who do not like to work directly in the LaT
 ![](sign_up.PNG)
 
 **2. Sign in:** Once you have signed up, you can log into your account. The first time you sign in, you need to verify your e-mail address.
-**3. Create a new project:** You can now create your first project by pressing on the "create a new project" button.
+
+**3. Create a new project:** You can now create your first project by pressing on the "create a new project" button. A window will pop up providing you with a choice of possible templates. For now, we choose the blank paper under the heading basics.
 
 ![](create_project.PNG)
+
