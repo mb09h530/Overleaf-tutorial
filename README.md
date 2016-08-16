@@ -18,5 +18,5 @@ It offers a rich text mode for those who do not like to work directly in the LaT
 
 ## Part 1: Subscription
 
-**1. X:**
+**1. Sign up:** To get started you need to sign up for Overleaf on the **[Overleaf webpage](https://www.overleaf.com/)**.
 
