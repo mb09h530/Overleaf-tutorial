@@ -24,7 +24,8 @@ It offers a rich text mode for those who do not like to work directly in the LaT
 
 **2. Sign in:** Once you have signed up, you can log into your account. The first time you sign in, you need to verify your e-mail address and to set a password.
 
-**3. Create a new project:** You can now create your first project by pressing on the "create a new project" button. A window will pop up providing you with a choice of possible templates. For now, we choose the blank paper under the heading basics.
+## Part 2: Create a new project
+**1. Create project:** You can now create your first project by pressing on the "create a new project" button. A window will pop up providing you with a choice of possible templates. For now, we choose the blank paper under the heading basics.
 
 ![](create_project.PNG)
 
@@ -37,5 +38,9 @@ The working surface is composed of three areas:
 * The part in the middle showing the tex file containing your LaTeX code;
 * and the part to the right where your document is displayed as a pdf after compilation (which is done automatically).
 
+**2. Upload your own tex-file:** Currently, your document just consists of a blank file. However, we would like to continue working on the document you created in Tutorial 2: Writing publications with R. 
+The easiest way to upload a new tex file is to upload it from your local computer. To do so, click on the add files button in the upper left corner. 
+
+![](replace_tex.PNG)
 
 
