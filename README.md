@@ -57,4 +57,10 @@ Once you have uploaded all figures referenced to in the tex-file, Overleaf will 
 
 ![](compiled_pdf.PNG)
 
+**3. Modify document:** Now it is time to make changes to your document. Add text, figures, tables, lists,...
+You can either work directly in the source code or switch to rich text if you are not that familiar with the LaTeX language.
+To do so, just click on the button Rich instead of Source.
+
+![](rich_text.PNG)
+
 
