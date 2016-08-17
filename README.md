@@ -7,8 +7,8 @@ This tutorial in the context of the **Reproducible Research Workshop** provides 
 
 * Subscribe to Overleaf
 * Create a new Latex project in Overleaf
+* Save your Overleaf project to your local computer
 * Share your project with colleagues
-* 
 
 ## Motivation
 Overleaf is an online LaTeX editor with integrated real-time preview. 
