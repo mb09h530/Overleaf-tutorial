@@ -87,7 +87,20 @@ You can add a comment by clicking on the plus sign in the menu. This will open a
 
 ![](add_comment.PNG)
 
+## Part 4: Saving your project
 
+You can save your document as a pdf by clicking on the menu PDF.
 
+![](save_pdf.PNG)
 
+If you would like to save the whole project including tex file and figures, you can download it ad a ZIP-file.
 
+![](download_zip.PNG)
+
+## Part 5: Sharing of document
+
+You can share your project with others via a link. You can find this link by clicking on the menu SHARE.
+
+![](sharing.PNG)
+
+You can send this link to your co-authors to allow them to make changes to the document as well.
