@@ -52,8 +52,9 @@ To make it your main tex file, you need to delete the existing file main.tex. Th
 ![](compilation_error.PNG)
 
 When you click on "go to first error", Overleaf will indicate you where in your tex file the error is caused. In our case, it is unable to load a picture you want to call from a pdf file. For Overleaf to find it, we need to add it and all other external files that are called in the main tex file to our files as well.
-To do so, click on the add files button in the upper left corner again and upload all pdfs used.
+To do so, click on the add files button in the upper left corner again and upload all figures used.
+Once you have uploaded all figures referenced to in the tex-file, Overleaf will compile a pdf of your document.
 
-
+![](compiled_pdf.PNG)
 
 
