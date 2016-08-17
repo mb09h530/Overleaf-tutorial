@@ -115,4 +115,6 @@ You can share your project with others via a link. You can find this link by cli
 
 You can send this link to your co-authors to allow them to make changes to the document as well.
 
-## Templates:
+## Templates: 
+
+Most journals offer their own Latex templates which can usually be downloaded on their webpage.
