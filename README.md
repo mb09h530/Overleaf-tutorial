@@ -103,7 +103,7 @@ You can save your document as a pdf by clicking on the menu PDF.
 
 ![](save_pdf.PNG)
 
-If you would like to save the whole project including tex file and figures, you can download it ad a ZIP-file.
+If you would like to save the whole project including tex file and figures, you can download it as a ZIP-file.
 
 ![](download_zip.PNG)
 
