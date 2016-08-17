@@ -57,6 +57,16 @@ Once you have uploaded all figures referenced to in the tex-file, Overleaf will 
 
 ![](compiled_pdf.PNG)
 
+**3. Add bibliography:** Overleaf allows you to connect to your bibliography.
+
+![](add_bibliography.PNG)
+
+Several reference managing systems are supported such as citeulike, Zotero, or Mendeley.
+
+![](biblios.PNG)
+
+Just check whether your preferred one is available as well.
+
 ## Part 3:  Modification of document
 
 **1. Add and modify content:** Now it is time to make changes to your document. Add text, figures, tables, lists,...
@@ -104,3 +114,5 @@ You can share your project with others via a link. You can find this link by cli
 ![](sharing.PNG)
 
 You can send this link to your co-authors to allow them to make changes to the document as well.
+
+## Templates:
