@@ -57,10 +57,37 @@ Once you have uploaded all figures referenced to in the tex-file, Overleaf will 
 
 ![](compiled_pdf.PNG)
 
-**3. Modify document:** Now it is time to make changes to your document. Add text, figures, tables, lists,...
+## Part 3:  Modification of document
+
+**1. Add and modify content:** Now it is time to make changes to your document. Add text, figures, tables, lists,...
 You can either work directly in the source code or switch to rich text if you are not that familiar with the LaTeX language.
 To do so, just click on the button Rich instead of Source.
 
 ![](rich_text.PNG)
+
+Under the menu More, you find some commonly used commands such as adding paragraphs, printing bold and italic, adding lists, ...
+
+![](common_commands.PNG)
+
+**2. Look at file history:** After having made some changes to the document, you might want to look at the file history of your document. This allows you to keep the overview on when and how you have made changes.
+
+![](file_history.PNG)
+
+If you are not happy with some of the changes made, you can restore an older version of the document by clicking on resotre file.
+
+![](restore_file.PNG)
+
+This will bring you back to an older version.
+You can also save certain versions of your document by clicking on the VERSIONS button. This allows you to attach a label to your version.
+
+![](label_version.PNG)
+
+**3. Add comment:** Overleaf allows you to comment what you have written. This allows you to set reminders for yourself or to communicate with your co-authors and collaborators.
+You can add a comment by clicking on the plus sign in the menu. This will open a window where you can add a comment.
+
+![](add_comment.PNG)
+
+
+
 
 
