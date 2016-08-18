@@ -115,6 +115,14 @@ You can share your project with others via a link. You can find this link by cli
 
 You can send this link to your co-authors to allow them to make changes to the document as well.
 
-## Templates: 
+## Comments
 
-Most journals offer their own Latex templates which can usually be downloaded on their webpage.
+* Most journals offer their own Latex templates which can usually be downloaded on their webpage.
+* Available storage space on free version of Overleaf: 1GB
+* File limit per project on free version of Overleaf: 60
+
+## Useful links
+
+Frequently asked questions about Overleaf: https://www.overleaf.com/help/category/features_and_files
+Introduction to Latex: https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-1#.V7XhuaLnGao
+Video tutorials Overleaf: https://www.overleaf.com/help/category/video_tutorials
