@@ -118,7 +118,7 @@ You can send this link to your co-authors to allow them to make changes to the d
 ## Comments
 
 * Most journals offer their own Latex templates which can usually be downloaded on their webpage.
-* Available storage space on free version of Overleaf: 1GB
+* Available storage space on free version of Overleaf: 100MB - 1GB
 * File limit per project on free version of Overleaf: 60
 
 ## Useful links
