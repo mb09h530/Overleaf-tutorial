@@ -74,7 +74,7 @@ To do so, just click on the button _Rich_ instead of _Source_.
 
 ![](rich_text.PNG)
 
-Under the menu _More_, you find some commonly used commands such as adding paragraphs, printing bold and italic, adding lists, ...
+Under the menu _More_, you find some commonly used commands such as adding paragraphs, printing bold and italic, adding lists, ... (To see ethis menu; ensure that your browser window is wide enough).
 
 ![](common_commands.PNG)
 
