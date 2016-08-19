@@ -25,7 +25,7 @@ It offers a rich text mode for those who do not like to work directly in the LaT
 **2. Sign in:** Once you have signed up, you can log into your account. The first time you sign in, you need to verify your e-mail address and to set a password.
 
 ## Part 2: Create a new project
-**1. Create project:** You can now create your first project by pressing on the "create a new project" button. A window will pop up providing you with a choice of possible templates. For now, we choose the blank paper under the heading basics.
+**1. Create project:** You can now create your first project by pressing on the "create a new project" button. A window will pop up providing you with a choice of possible templates. For now, we choose the blank paper under the heading _basics_.
 
 ![](create_project.PNG)
 
@@ -33,17 +33,16 @@ A new window opens containing your new project.
 
 ![](elements.PNG)
 
-The working surface is composed of three areas: 
-* The area to the left where you manage the files being part of your document (tex file, bibliography, figures,...) and where you can download your project as a zip-file;
-* The part in the middle showing the tex file containing your LaTeX code;
-* and the part to the right where your document is displayed as a pdf after compilation (which is done automatically).
+The working surface is composed of two areas: 
+The main part in the showing the tex file containing your LaTeX code and the part to the right where your document is displayed as a pdf after compilation (which is done automatically).
+A third area can be added to the left by clicking on the menu _PROJECT_. There, you manage the files being part of your document (tex file, bibliography, figures,...) and can download your project as a zip-file.
 
 **2. Upload your own tex-file:** Currently, your document just consists of a blank file. However, we would like to continue working on the document you created in Tutorial 2: Writing publications with R. 
-The easiest way to upload a new tex file is to upload it from your local computer. To do so, click on the add files button in the upper left corner and choose upload from computer.
+The easiest way to upload a new tex file is to upload it from your local computer. To do so, click on the _Add Files_ button in the upper left corner and choose upload from computer.
 
 ![](replace_tex.png)
 
-You can either drag your file (which you probably called publication.tex) to the uploading window opening or choose a file via the CHOOSE FILES button.
+You can either drag your file (which you probably called publication.tex) to the uploading window opening or choose a file via the _CHOOSE FILES_ button.
 
 ![](drag_file.PNG)
 
@@ -51,8 +50,8 @@ To make it your main tex file, you need to delete the existing file main.tex. Th
 
 ![](compilation_error.PNG)
 
-When you click on "go to first error", Overleaf will indicate you where in your tex file the error is caused. In our case, it is unable to load a picture you want to call from a pdf file. For Overleaf to find it, we need to add it and all other external files that are called in the main tex file to our files as well.
-To do so, click on the add files button in the upper left corner again and upload all figures used.
+When you click on _go to first error_, Overleaf will indicate you where in your tex file the error is caused. In our case, it is unable to load a picture you want to call from a pdf file. For Overleaf to find it, we need to add it and all other external files that are called in the main tex file to our files as well.
+To do so, click on the _Add Files_ button in the upper left corner again and upload all figures used.
 Once you have uploaded all figures referenced to in the tex-file, Overleaf will compile a pdf of your document.
 
 ![](compiled_pdf.PNG)
@@ -71,11 +70,11 @@ Just check whether your preferred one is available as well.
 
 **1. Add and modify content:** Now it is time to make changes to your document. Add text, figures, tables, lists,...
 You can either work directly in the source code or switch to rich text if you are not that familiar with the LaTeX language.
-To do so, just click on the button Rich instead of Source.
+To do so, just click on the button _Rich_ instead of _Source_.
 
 ![](rich_text.PNG)
 
-Under the menu More, you find some commonly used commands such as adding paragraphs, printing bold and italic, adding lists, ...
+Under the menu _More_, you find some commonly used commands such as adding paragraphs, printing bold and italic, adding lists, ...
 
 ![](common_commands.PNG)
 
@@ -83,12 +82,12 @@ Under the menu More, you find some commonly used commands such as adding paragra
 
 ![](file_history.PNG)
 
-If you are not happy with some of the changes made, you can restore an older version of the document by clicking on resotre file.
+If you are not happy with some of the changes made, you can restore an older version of the document by clicking on _resotre file_.
 
 ![](restore_file.PNG)
 
 This will bring you back to an older version.
-You can also save certain versions of your document by clicking on the VERSIONS button. This allows you to attach a label to your version.
+You can also save certain versions of your document by clicking on the _VERSIONS_ button. This allows you to attach a label to your version.
 
 ![](label_version.PNG)
 
@@ -99,7 +98,7 @@ You can add a comment by clicking on the plus sign in the menu. This will open a
 
 ## Part 4: Saving your project
 
-You can save your document as a pdf by clicking on the menu PDF.
+You can save your document as a pdf by clicking on the menu _PDF_.
 
 ![](save_pdf.PNG)
 
