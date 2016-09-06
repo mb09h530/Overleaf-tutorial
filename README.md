@@ -1,5 +1,5 @@
 ![](header.png)
-# Tutorial 3: Writing publications with Overleaf (Work in progress)
+# Writing publications with Overleaf
 
 This tutorial in the context of the **Reproducible Research Workshop** provides you with the first steps on how to write publications in Overleaf.
 
@@ -12,7 +12,7 @@ This tutorial in the context of the **Reproducible Research Workshop** provides 
 
 ## Motivation
 Overleaf is an online LaTeX editor with integrated real-time preview. 
-It allows you to collaborate with your co-autors who can review, comment, and edit the document.
+It allows you to collaborate with your co-authors who can review, comment, and edit the document.
 Your project is compiled in the background and you can see what it looks like right away.
 It offers a rich text mode for those who do not like to work directly in the LaTeX code.
 
@@ -25,7 +25,7 @@ It offers a rich text mode for those who do not like to work directly in the LaT
 **2. Sign in:** Once you have signed up, you can log into your account. The first time you sign in, you need to verify your e-mail address and to set a password.
 
 ## Part 2: Create a new project
-**1. Create project:** You can now create your first project by pressing on the "create a new project" button. A window will pop up providing you with a choice of possible templates. For now, we choose the blank paper under the heading _basics_.
+**1. Create project:** You can now create your first project by pressing the "create a new project" button. A window will pop up providing you with a choice of possible templates. For now, we choose the blank paper under the heading _basics_.
 
 ![](create_project.PNG)
 
@@ -74,7 +74,7 @@ To do so, just click on the button _Rich_ instead of _Source_.
 
 ![](rich_text.PNG)
 
-Under the menu _More_, you find some commonly used commands such as adding paragraphs, printing bold and italic, adding lists, ... (To see ethis menu; ensure that your browser window is wide enough).
+Under the menu _More_, you find some commonly used commands such as adding paragraphs, printing bold and italic, adding lists, ... (To see this menu; ensure that your browser window is wide enough).
 
 ![](common_commands.PNG)
 
@@ -102,11 +102,11 @@ You can save your document as a pdf by clicking on the menu _PDF_.
 
 ![](save_pdf.PNG)
 
-If you would like to save the whole project including tex file and figures, you can download it as a ZIP-file.
+If you would like to save the whole project including tex file and figures, you can download it as a zip-file.
 
 ![](download_zip.PNG)
 
-## Part 5: Sharing of document
+## Part 5: Sharing your document
 
 You can share your project with others via a link. You can find this link by clicking on the menu SHARE.
 
